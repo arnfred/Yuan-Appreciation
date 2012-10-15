@@ -1,0 +1,48 @@
+\documentclass[11pt]{article}
+
+% This is not final, I'm just filling in a title
+\title{The diplomatic consequences of Renminbi undervaluation}
+\author{Fabio Molo and Jonas Arnfred}
+
+
+\usepackage{natbib}
+\usepackage{hyperref}
+\begin{document}
+
+\maketitle
+
+% Disables page count
+\thispagestyle{empty}
+
+% Displays table of contents
+\tableofcontents
+
+\pagebreak
+
+% Sets page counter to 1
+\setcounter{page}{1}
+
+% An introduction explaining what we are setting out to do
+\input{introduction}
+
+% Economic background, detailing China's policy that has led to the
+% devaluation of the renminbi over the last few years
+\input{economics}
+
+% The consequences for the rest of the world and the resulting political
+% response (the united states in particular)
+\input{politics}
+
+% A discussion of the two last chapters with focus on the role economic
+% arguments have played in the diplomatic discourse
+\input{discussion}
+
+% Final remarks rounding up the conclusions that can be said on the
+% subject
+\input{conclusion}
+
+% TODO: correct to the right bibliographical style
+\bibliographystyle{unsrtnat}
+\bibliography{yuan}
+
+\end{document}
