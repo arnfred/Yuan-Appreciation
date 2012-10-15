@@ -1,6 +1,26 @@
 List of potential sources and their title and abstracts:
 
+#1: Should China Appreciate the Yuan (2004)
+http://papers.ssrn.com/sol3/papers.cfm?abstract_id=527902
+
+A little logic and a little evidence does not warrant the conclusion 
+that the yuan should be appreciated. There has been no depreciation of 
+the yuan in recent years to generate increases in China's exports and 
+the total of China's and Hong Kong's exports to the U.S. has remained 
+virtually constant. Nor does the U.S./China bilateral trade deficit, 
+itself, reveal an undervalued yuan. China's exports to the U.S. are due 
+to U.S. economic growth and, until recently, the effects of the 
+euro/dollar rate in directing exports to the U.S. It is possible that 
+China's exchange rate is below its optimal value as its foreign exchange 
+reserves are quite large. Yet it would be understandable if the Chinese 
+authorities were concerned about the potential volatilities of a 
+floating exchange and of international capital markets and want to 
+self-insure by maintaining large reserves.
 Measuring misalignment: Latest estimates for the chinese yuan
+http://www.ssc.wisc.edu/~mchinn/CCF_VoxEU_final.pdf
+
+
+#2: Measuring Misalignment: Latest Estimates for the Chinese Yuan (2010)
 http://www.ssc.wisc.edu/~mchinn/CCF_VoxEU_final.pdf
 
 Few phrases in open economy macroeconomics excite so much attention, but elicit so little
@@ -13,6 +33,35 @@ and empirics; in particular, we set forth a typology of modeling approaches used
 misalignment, in order to highlight the difficulties in defining the “equilibrium (real) exchange
 rate” in theory, and in quantifying the extent of deviations from equilibrium in practice. We then
 recap recent estimates of yuan misalignment.
+
+
+#3: The US-Sino Currency Dispute: New Insights from Economics, Politics, 
+and Law
+http://www.voxeu.org/epubs/cepr-reports/us-sino-currency-dispute-new-insights-economics-politics-and-law
+
+Thanks to deft diplomatic footwork, a US-China confrontation over the 
+renminbi has been avoided. But the US Treasury has merely postponed the 
+publication of its report on foreign currency manipulators, and the 
+dispute may overshadow the G20 meetings in June and November. The 28 
+short essays in this eBook provide the best available economic, legal, 
+political, and geopolitical thinking on the causes and likely 
+consequences of the dispute.
+
+
+#4: Chinese Yuan after Chinese Exchange Rate System Reform (2006)
+http://onlinelibrary.wiley.com/doi/10.1111/j.1749-124X.2006.00044.x/abstract
+
+In this paper, the actual exchange rate policy conducted by the Chinese 
+government after the Chinese exchange rate system reform on 21 July 2005 
+is investigated. Also, the long-run effect is investigated, including 
+the Balassa-Samuelson effect on the Chinese yuan. It was found that the 
+Chinese government generated a statistically significant but small 
+change in exchange rate policy during the sample period until 25 January 
+2006. It was not identified that the Chinese monetary authority is 
+adopting the currency basket system because the change is too small in 
+the economic sense. It is indicated that the Chinese government should 
+take account of the productivity growth of countries composing the 
+currency basket in order to operate a currency basket regime.
 
 
 
