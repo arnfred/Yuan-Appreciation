@@ -2,6 +2,7 @@ List of potential sources and their title and abstracts:
 
 #1: Should China Appreciate the Yuan (2004)
 http://papers.ssrn.com/sol3/papers.cfm?abstract_id=527902
+(economy)
 
 A little logic and a little evidence does not warrant the conclusion 
 that the yuan should be appreciated. There has been no depreciation of 
@@ -22,6 +23,7 @@ http://www.ssc.wisc.edu/~mchinn/CCF_VoxEU_final.pdf
 
 #2: Measuring Misalignment: Latest Estimates for the Chinese Yuan (2010)
 http://www.ssc.wisc.edu/~mchinn/CCF_VoxEU_final.pdf
+(economy)
 
 Few phrases in open economy macroeconomics excite so much attention, but elicit so little
 understanding, as “currency misalignment”. The reason for this state of affairs is not very
@@ -38,6 +40,7 @@ recap recent estimates of yuan misalignment.
 #3: The US-Sino Currency Dispute: New Insights from Economics, Politics, 
 and Law
 http://www.voxeu.org/epubs/cepr-reports/us-sino-currency-dispute-new-insights-economics-politics-and-law
+(economy)
 
 Thanks to deft diplomatic footwork, a US-China confrontation over the 
 renminbi has been avoided. But the US Treasury has merely postponed the 
@@ -50,6 +53,7 @@ consequences of the dispute.
 
 #4: Chinese Yuan after Chinese Exchange Rate System Reform (2006)
 http://onlinelibrary.wiley.com/doi/10.1111/j.1749-124X.2006.00044.x/abstract
+(economy)
 
 In this paper, the actual exchange rate policy conducted by the Chinese 
 government after the Chinese exchange rate system reform on 21 July 2005 
@@ -62,6 +66,146 @@ adopting the currency basket system because the change is too small in
 the economic sense. It is indicated that the Chinese government should 
 take account of the productivity growth of countries composing the 
 currency basket in order to operate a currency basket regime.
+
+
+#5: http://cesifo.oxfordjournals.org/content/52/2/246.short
+On the Yuan: The Choice between Adjustment under a Fixed Exchange Rate 
+and Adjustment under a Flexible Rate
+(economy)
+
+Fixed and flexible exchange rates each have advantages, and a country 
+has the right to choose the regime suited to its circumstances. 
+Nevertheless, several arguments support the view that the de facto 
+dollar peg may now have outlived its usefulness for China. (i) Although 
+foreign exchange reserves are a useful shield against currency crises, 
+by now China's current level is fully adequate, and US treasury 
+securities do not pay a high return. (ii) It may become increasingly 
+difficult to sterilize the inflow over time. (iii) Although external 
+balance could be achieved by expenditure reduction, e.g. by raising 
+interest rates, the existence of two policy goals (external balance and 
+internal balance) in general requires the use of two independent policy 
+instruments (e.g. the real exchange rate and the interest rate). (iv) A 
+large economy like China can achieve adjustment in the real exchange 
+rate via flexibility in the nominal exchange rate more easily than via 
+price flexibility. (v) The experience of other emerging markets points 
+toward exiting from a peg when times are good and the currency is 
+strong, rather than waiting until times are bad and the currency is 
+under attack. (vi) From a longer-run perspective, prices of goods and 
+services in China are low—not just low relative to the US (0.23), but 
+also low by the standards of a Balassa–Samuelson relationship estimated 
+across countries (which predicts 0.36). In this specific sense, the yuan 
+was undervalued by ∼35 percent in 2000, and is by at least as much as 
+that today. The study finds that, typically across countries, such gaps 
+are corrected halfway, on average, over the subsequent decade. These six 
+arguments for increased exchange rate flexibility need not imply a free 
+float. China is a good counter-example to the popular “corners 
+hypothesis” prohibition on intermediate exchange rate regimes. However, 
+the specific changes announced by the Chinese authorities in July 2005 
+have not yet resulted in a de facto abandonment of the dollar peg (JEL 
+classification: F41).
+
+#6: Measuring Renminbi Misalignment: Where do We Stand?
+http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1690463
+(economy)
+
+The value of China’s currency, the renminbi (RMB), and the conduct of 
+China’s exchange rate policy have generated intense debate in academic 
+and international policy circles. Despite the accumulation of empirical 
+evidence regarding the degree of RMB misalignment over the past few 
+years, the debate continues unabated. In this study, we highlight the 
+challenges to properly assessing the nature and degree of currency 
+misalignment, in terms of the choice of the model, the method of 
+calculation, and data uncertainty. In particular, we demonstrate the 
+susceptibility of misalignment estimates to model selection and data 
+revisions. Further, we explicitly discuss the implications of sampling 
+uncertainty for determining the extent of RMB misalignment.
+
+#7: Real equilibrium exchange rate in China is the renminbi undervalued?  
+http://www.sciencedirect.com/science/article/pii/S1049007807000516
+(economy)
+(very cited)
+
+We give some insights about the possible undervaluation of the Chinese 
+currency. On the one hand, we address the issue of the “Balassa effect”, 
+by comparing China with other emerging countries. We try to measure the 
+gap between the evolution of the real exchange rate in China and what 
+would have resulted from a “normal” Balassa effect. For doing this, we 
+use two methods regression on real exchange rate (RER) in level and 
+panel cointegration on RER evolutions. We evidence a lack of Balassa 
+effect in China, consistent with the fact that the real exchange rate 
+did not appreciate despite the rapid catching-up. On the other hand, we 
+use a FEER (Fundamental Equilibrium Exchange Rate) method to calculate 
+the real effective exchange rate consistent with sustainable current 
+accounts. Our results show that China's RER was undervalued between 2002 
+and 2005 in effective terms and even more against the USD. However, we 
+also show that a revaluation of the renminbi would only have a small 
+effect on the US external deficit.
+
+
+#8: Just How Undervalued is the Chinese Renminbi?
+http://onlinelibrary.wiley.com/doi/10.1111/j.1467-9701.2005.00688.x/abstract
+(economy)
+(very cited)
+
+Given that the value of China's currency has been a hot topic recently, 
+this paper explores the equilibrium levels of China's real and nominal 
+exchange rates. Employing a Johansen cointegration framework, we focus 
+on the behavioural equilibrium exchange rate (BEER) and permanent 
+equilibrium exchange rate (PEER) models. Our results suggest that, while 
+the renminbi is somewhat undervalued against the dollar, the 
+misalignment is not nearly as exaggerated as many popular claims.
+
+
+#9: Debating China's Exchange Rate Policy
+http://books.google.ch/books?id=Ka7rmHFt9eIC&dq=renminbi+diplomacy&lr=&source=gbs_navlinks_s
+(politics and economics)
+(Almost the whole book is on google books)
+
+Assessing China's exchange rate policy, this work explains how to make 
+capital flows the ally--not the enemy--of exchange rate policy. It 
+examines which institutional arrangements and policy guidelines reap the 
+greatest benefits from management of China's large foreign exchange 
+reserves.
+
+
+#10: The United States and the PRC: Macroeconomic Imbalances and 
+Economic Diplomacy
+http://aei.org/files/2011/06/28/ADBI-GMU-Levy-8-June-2011.pdf
+(diplomacy)
+
+The People’s Republic of China (PRC)’s current account surplus, its 
+growing foreign exchange reserves, and its shifting policies on exchange 
+rate adjustment have become a central preoccupation of United States 
+(US) trade policy. The paper considers the evolving political economy of 
+the US policy stance and of the PRC’s response; it assesses the 
+opportunity costs of an approach that has sometimes focused on the 
+exchange rate to the exclusion of other issues; and it explores the 
+ramifications for economic governance in the short- and medium-run.
+
+
+#11: Economic Diplomacy in a Changing World
+http://www.ingentaconnect.com/content/mnp/hjd/2011/00000006/F0020001/art00009
+(economic diplomacy)
+
+This article stresses the importance of economic diplomacy in 
+international policy-making. It elaborates on the global challenges that 
+we face in the coming years. Solving these challenges has become 
+complicated as a result of the rebalancing act from the West towards the 
+East. The challenges touched upon here are issues such as the aftermath 
+of the 2008-2009 global financial crisis, guarding the multilateral 
+system, the decreasing power of the Netherlands, and securing food and 
+raw materials. Solutions to these challenges can be found in increasing 
+our understanding of our new partners and using economic diplomacy more 
+frequently in an intelligent way.
+
+
+#12: The Chinese Economy: Progress and Challenges
+http://www.federalreserve.gov/newsevents/speech/Bernanke20061215a.htm
+(diplomacy)
+(primary source)
+
+Speech by the us Federal Reserve Bank chairman Ben S. Bernanke in China, 
+2006
 
 
 
