@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2011)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: research_proposal.aux
+The style file: abbrv.bst
+Database file #1: research_proposal.bib
+Warning--empty institution in ustreasury
+You've used 13 entries,
+            2118 wiz_defined-function locations,
+            585 strings with 5716 characters,
+and the built_in function-call counts, 3496 in all, are:
+= -- 347
+> -- 138
+< -- 2
++ -- 58
+- -- 42
+* -- 224
+:= -- 624
+add.period$ -- 39
+call.type$ -- 13
+change.case$ -- 60
+chr.to.int$ -- 0
+cite$ -- 14
+duplicate$ -- 134
+empty$ -- 284
+format.name$ -- 42
+if$ -- 711
+int.to.chr$ -- 0
+int.to.str$ -- 13
+missing$ -- 11
+newline$ -- 68
+num.names$ -- 26
+pop$ -- 53
+preamble$ -- 1
+purify$ -- 47
+quote$ -- 0
+skip$ -- 86
+stack$ -- 0
+substring$ -- 206
+swap$ -- 11
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 48
+warning$ -- 1
+while$ -- 35
+width$ -- 15
+write$ -- 141
+(There was 1 warning)
