@@ -4,3 +4,7 @@
 economics.log
 
 economics.aux
+
+economics.out
+
+*.out
