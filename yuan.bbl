@@ -1,188 +1,155 @@
-\begin{thebibliography}{30}
+\begin{thebibliography}{31}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
-\expandafter\ifx\csname urlstyle\endcsname\relax
-  \providecommand{\doi}[1]{doi: #1}\else
-  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+\providecommand{\urlprefix}{URL }
 
-\bibitem[Krugman and Wells(2008)]{Krugman2008}
-Paul Krugman and Robin Wells.
-\newblock \emph{Macroeconomics}.
-\newblock Worth Publishers, 2008.
+\bibitem[{IEM(2003)}]{IEM2003}
+2003, \emph{Is the Chinese currency, the renminbi, dangerously undervalued and
+  a threat to the global economy?}, The international Economy Magazine,
+  \urlprefix\url{http://www.international-economy.com/TIE_Sp03_ChinaCurrencySymp.pdf.}
 
-\bibitem[of~St. Louis Economic~Research()]{FRED2012}
-Federal Reserve~Bank of~St. Louis Economic~Research.
-\newblock Exports of goods and services in china.
-\newblock URL \url{http://research.stlouisfed.org/fredgraph.png?g=dWg}.
+\bibitem[{Bernanke(2005)}]{Bernanke05}
+Bernanke, Ben~S., 2005, \emph{The Global Saving Glut and the U.S. Current
+  Account Deficit}, Speech, United States Federal Reserve System,
+  \urlprefix\url{http://www.federalreserve.gov/boarddocs/speeches/2005/200503102/}.
 
-\bibitem[Humpage and Mowry()]{Humpage2010}
-Owen Humpage and Beth Mowry.
-\newblock Out of whack---the renminbi.
+\bibitem[{Bernanke(2006)}]{Bernanke06}
+Bernanke, Ben~S., 2006, \emph{The Chinese Economy: Progress and Challenges},
+  Speech, United States Federal Reserve System,
+  \urlprefix\url{http://www.federalreserve.gov/newsevents/speech/Bernanke20061215a.htm}.
 
-\bibitem[Xiaoyi(2011)]{Wang2011}
-Wang Xiaoyi.
-\newblock China's exchange rate and monetary policies.
-\newblock BIS Papers~57, Bank of International Settlements,
-  www.bis.org/publ/bppdf/bispap57.pdf, 2011.
+\bibitem[{Breslin(2010)}]{Breslin2010}
+Breslin, Shaun, 2010, \emph{Great expectations: (Competing) domestic drivers of
+  Chinese policy deliberations}, in: Evenett, Simon~J (Hg.), \emph{The US-Sino
+  Currency Dispute: New Insights from Economics, Politics and Law}, Kap.~26,
+  VoxEU.
 
-\bibitem[Yang et~al.(2011)Yang, Zhang, and Zhou]{Yang2011}
-Denis~Tao Yang, Junsen Zhang, and Shaojie Zhou.
-\newblock Why are saving rates so high in china?
-\newblock Technical Report 16771, National Bureau of Economic Research, 2011.
-\newblock URL \url{http://www.nber.org/papers/w16771}.
+\bibitem[{Cheung, Chinn et~al.(2009)Cheung, Chinn und Fujii}]{Cheung2009}
+Cheung, Yin-Wong, Chinn, Menzie~D. und Fujii, Eiji, 2009, \emph{China's Current
+  Account and Exchange Rate}, NBER Working Paper Series 14673, National Bureau
+  of Economic Research.
 
-\bibitem[Office()]{BFS2012}
-Swiss Federal~Statistics Office.
-\newblock National economy - savings rate of households.
-\newblock URL
-  \url{http://www.bfs.admin.ch/bfs/portal/en/index/themen/00/09/blank/ind42.indicator.420004.420001.html}.
+\bibitem[{Cheung, Chinn et~al.(2010)Cheung, Chinn und Fujii}]{Cheung2010}
+Cheung, Yin-Wong, Chinn, Menzie~D. und Fujii, Eiji, 2010, \emph{Measuring
+  misalignment: Latest estimates for the Chinese renminbi}, in: Evenett,
+  Simon~J (Hg.), \emph{The US-Sino Currency Dispute: New Insights from
+  Economics, Politics and Law}, Kap.~10, VoxEU.
 
-\bibitem[Wyplosz(2010)]{Wyplosz2010}
-Charles Wyplosz.
-\newblock Is an undervalued renminbi the source of global imbalances?
-\newblock In Simon~J Evenett, editor, \emph{The US-Sino Currency Dispute: New
-  Insights from Economics, Politics and Law}, chapter~5. VoxEU, 2010.
+\bibitem[{Cline und Williamson(2009)}]{Cline2009}
+Cline, William~R. und Williamson, John, 2009, \emph{2009 Estimates of
+  Fundamental Equilibrium Exchange Rates}, Policy Briefs PB10-15, Peterson
+  Institute for International Economics,
+  \urlprefix\url{http://ideas.repec.org/p/iie/pbrief/pb10-15.html}.
 
-\bibitem[Cline and Williamson(2009)]{Cline2009}
-William~R. Cline and John Williamson.
-\newblock 2009 estimates of fundamental equilibrium exchange rates.
-\newblock Policy Briefs PB10-15, Peterson Institute for International
-  Economics, June 2009.
-\newblock URL \url{http://ideas.repec.org/p/iie/pbrief/pb10-15.html}.
+\bibitem[{Cline und Williamson(2012)}]{Cline2012}
+Cline, William~R. und Williamson, John, 2012, \emph{Estimates of Fundamental
+  Equilibrium Exchange Rates, May 2012}, Policy Briefs PB10-15, Peterson
+  Institute for International Economics,
+  \urlprefix\url{http://ideas.repec.org/p/iie/pbrief/pb10-15.html}.
 
-\bibitem[Cline and Williamson(2012)]{Cline2012}
-William~R. Cline and John Williamson.
-\newblock Estimates of fundamental equilibrium exchange rates, may 2012.
-\newblock Policy Briefs PB10-15, Peterson Institute for International
-  Economics, June 2012.
-\newblock URL \url{http://ideas.repec.org/p/iie/pbrief/pb10-15.html}.
+\bibitem[{Daily(2011)}]{ChinaDaily11}
+Daily, China, 2011, \emph{China refutes claims RMB undervalued},
+  \urlprefix\url{http://english.people.com.cn/90001/90778/90859/7451845.html}.
 
-\bibitem[Cheung et~al.(2009)Cheung, Chinn, and Fujii]{Cheung2009}
-Yin-Wong Cheung, Menzie~D. Chinn, and Eiji Fujii.
-\newblock China's current account and exchange rate.
-\newblock NBER Working Paper Series 14673, National Bureau of Economic
-  Research, 2009.
+\bibitem[{Frankel(2010)}]{Frankel2010}
+Frankel, Jeffrey, 2010, \emph{The renminbi since 2005}, in: Evenett, Simon~J
+  (Hg.), \emph{The US-Sino Currency Dispute: New Insights from Economics,
+  Politics and Law}, Kap.~7, VoxEU.
 
-\bibitem[Cheung et~al.(2010)Cheung, Chinn, and Fujii]{Cheung2010}
-Yin-Wong Cheung, Menzie~D. Chinn, and Eiji Fujii.
-\newblock Measuring misalignment: Latest estimates for the chinese renminbi.
-\newblock In Simon~J Evenett, editor, \emph{The US-Sino Currency Dispute: New
-  Insights from Economics, Politics and Law}, chapter~10. VoxEU, 2010.
+\bibitem[{Hughes(2006)}]{hughes2006}
+Hughes, C.R., 2006, \emph{Chinese nationalism in the global era}, in:
+  openDemocracy. net.
 
-\bibitem[Subramanian(2010)]{Subramanian2010}
-Arvind Subramanian.
-\newblock New ppp-based estimates of renminbi undervaluation and policy 69
-  implications.
-\newblock In Simon~J Evenett, editor, \emph{The US-Sino Currency Dispute: New
-  Insights from Economics, Politics and Law}, chapter~9. VoxEU, 2010.
+\bibitem[{Humpage und Mowry()}]{Humpage2010}
+Humpage, Owen und Mowry, Beth, ????, \emph{Out of Whack---the Renminbi}.
 
-\bibitem[Levy(2011{\natexlab{a}})]{Levy2011}
-Philip~. Levy.
-\newblock The united states and the prc: Macroeconomic imbalances and economic
-  diplomacy.
-\newblock ADBI Working Papers 328, Asian Development Bank Institute,
-  2011{\natexlab{a}}.
-\newblock URL \url{http://EconPapers.repec.org/RePEc:ris:adbiwp:0328}.
+\bibitem[{Krugman()}]{Krugman2009}
+Krugman, Paul, ????, \emph{Chinese New Year}.
 
-\bibitem[IEM(2003)]{IEM2003}
-\emph{Is the Chinese currency, the renminbi, dangerously undervalued and a
-  threat to the global economy?}, 2003. The international Economy Magazine.
-\newblock URL
-  \url{http://www.international-economy.com/TIE_Sp03_ChinaCurrencySymp.pdf.}
+\bibitem[{Krugman und Wells(2008)}]{Krugman2008}
+Krugman, Paul und Wells, Robin, 2008, \emph{Macroeconomics}, Worth Publishers.
 
-\bibitem[Krugman()]{Krugman2009}
-Paul Krugman.
-\newblock Chinese new year.
+\bibitem[{Kuroda(2004)}]{kuroda2004}
+Kuroda, H., 2004, \emph{The ``Nixon Shock'' and the ```Plaza Agreement'':
+  Lessons from Two Seemingly Failed Cases of Japan's Exchange Rate Policy}, in:
+  china \& World economy, 12(1), S. 3--10.
 
-\bibitem[Obama(2008)]{Obama2008}
-Barack Obama.
-\newblock Sen. barack obama at aam presidential candidates town, 2008.
-\newblock URL \url{http://www.youtube.com/watch?v=4Ai_FBe6R9w}.
+\bibitem[{Levy(2011{\natexlab{a}})}]{Levy2011}
+Levy, Philip~., 2011{\natexlab{a}}, \emph{The United States and the PRC:
+  Macroeconomic Imbalances and Economic Diplomacy}, ADBI Working Papers 328,
+  Asian Development Bank Institute,
+  \urlprefix\url{http://EconPapers.repec.org/RePEc:ris:adbiwp:0328}.
 
-\bibitem[Romney(2012)]{Romney2012}
-Mitt Romney.
-\newblock China is a currency manipulator; impose tariffs & start a trade war,
-  2012.
-\newblock URL \url{http://www.youtube.com/watch?v=eur8rYBotxg}.
+\bibitem[{Levy(2011{\natexlab{b}})}]{Levy11}
+Levy, Philip~., 2011{\natexlab{b}}, \emph{The United States and the PRC:
+  Macroeconomic Imbalances and Economic Diplomacy}, ADBI Working Papers 328,
+  Asian Development Bank Institute,
+  \urlprefix\url{http://EconPapers.repec.org/RePEc:ris:adbiwp:0328}.
 
-\bibitem[Breslin(2010)]{Breslin2010}
-Shaun Breslin.
-\newblock Great expectations: (competing) domestic drivers of chinese policy
-  deliberations.
-\newblock In Simon~J Evenett, editor, \emph{The US-Sino Currency Dispute: New
-  Insights from Economics, Politics and Law}, chapter~26. VoxEU, 2010.
+\bibitem[{Naughton(2008)}]{naughton2008}
+Naughton, Barry, 2008, \emph{A New Team Faces Unprecedented Economic
+  Challenges}.
 
-\bibitem[Wang(2011)]{Xinhua2011}
-Yamei Wang.
-\newblock China to expand import for balanced growth in trade: Premier.
-\newblock \emph{Xinhua English News}, 2011.
-\newblock URL
-  \url{http://news.xinhuanet.com/english2010/china/2011-10/14/c_131192073.htm}.
+\bibitem[{Obama(2008)}]{Obama2008}
+Obama, Barack, 2008, \emph{Sen. Barack Obama at AAM Presidential Candidates
+  Town}, \urlprefix\url{http://www.youtube.com/watch?v=4Ai_FBe6R9w}.
 
-\bibitem[Hughes(2006)]{hughes2006}
-C.R. Hughes.
-\newblock Chinese nationalism in the global era.
-\newblock \emph{openDemocracy. net}, 2006.
+\bibitem[{of~St. Louis Economic~Research()}]{FRED2012}
+of~St. Louis Economic~Research, Federal Reserve~Bank, ????, \emph{Exports of
+  Goods and Services in China},
+  \urlprefix\url{http://research.stlouisfed.org/fredgraph.png?g=dWg}.
 
-\bibitem[Naughton(2008)]{Naughton2008}
-Barry Naughton.
-\newblock A new team faces unprecedented economic challenges, 2008.
+\bibitem[{Office()}]{BFS2012}
+Office, Swiss Federal~Statistics, ????, \emph{National economy - Savings rate
+  of households},
+  \urlprefix\url{http://www.bfs.admin.ch/bfs/portal/en/index/themen/00/09/blank/ind42.indicator.420004.420001.html}.
 
-\bibitem[Ryan(2009)]{Ryan2009}
-Timothy Ryan.
-\newblock H.r. 2378 (111th): Currency reform for fair trade act, May 2009.
-\newblock URL \url{http://www.govtrack.us/congress/bills/111/hr2378}.
+\bibitem[{Reuters(2006)}]{reuters06}
+Reuters, 2006, \emph{Bernanke Backs Off Calling Weak Yuan a 'Subsidy'},
+  \urlprefix\url{http://www.cnbc.com/id/16215247/Bernanke_Backs_Off_Calling_Weak_Yuan_a_Subsidy}.
 
-\bibitem[Kuroda(2004)]{kuroda2004}
-H.~Kuroda.
-\newblock The ``nixon shock'' and the ```plaza agreement'': Lessons from two
-  seemingly failed cases of japan's exchange rate policy.
-\newblock \emph{china \& World economy}, 12\penalty0 (1):\penalty0 3--10, 2004.
+\bibitem[{Reuters(2009)}]{reuters09}
+Reuters, 2009, \emph{IMF head eyes global currency change, presses on yuan},
+  \urlprefix\url{http://www.reuters.com/article/2009/11/17/us-imf-idUSTRE5AG0I720091117}.
 
-\bibitem[Levy(2011{\natexlab{b}})]{Levy11}
-Philip~. Levy.
-\newblock The united states and the prc: Macroeconomic imbalances and economic
-  diplomacy.
-\newblock ADBI Working Papers 328, Asian Development Bank Institute,
-  2011{\natexlab{b}}.
-\newblock URL \url{http://EconPapers.repec.org/RePEc:ris:adbiwp:0328}.
+\bibitem[{Romney(2012)}]{Romney2012}
+Romney, Mitt, 2012, \emph{China is a currency manipulator; impose tariffs &
+  start a trade war},
+  \urlprefix\url{http://www.youtube.com/watch?v=eur8rYBotxg}.
 
-\bibitem[Reuters(2009)]{reuters09}
-Reuters.
-\newblock Imf head eyes global currency change, presses on yuan, 2009.
-\newblock URL
-  \url{http://www.reuters.com/article/2009/11/17/us-imf-idUSTRE5AG0I720091117}.
+\bibitem[{Ryan(2009)}]{Ryan2009}
+Ryan, Timothy, 2009, \emph{H.R. 2378 (111th): Currency Reform for Fair Trade
+  Act}, \urlprefix\url{http://www.govtrack.us/congress/bills/111/hr2378}.
 
-\bibitem[Daily(2011)]{ChinaDaily11}
-China Daily.
-\newblock China refutes claims rmb undervalued, 2011.
-\newblock URL
-  \url{http://english.people.com.cn/90001/90778/90859/7451845.html}.
+\bibitem[{Subramanian(2010)}]{Subramanian2010}
+Subramanian, Arvind, 2010, \emph{New PPP-based estimates of renminbi
+  undervaluation and policy 69 implications}, in: Evenett, Simon~J (Hg.),
+  \emph{The US-Sino Currency Dispute: New Insights from Economics, Politics and
+  Law}, Kap.~9, VoxEU.
 
-\bibitem[Waibel(2010)]{Waibel2010}
-Michael Waibel.
-\newblock Retaliating against exchange-rate manipulation under wto rules.
-\newblock In Simon~J Evenett, editor, \emph{The US-Sino Currency Dispute: New
-  Insights from Economics, Politics and Law}, chapter~16. VoxEU, 2010.
+\bibitem[{Waibel(2010)}]{Waibel2010}
+Waibel, Michael, 2010, \emph{Retaliating against exchange-rate manipulation
+  under WTO rules}, in: Evenett, Simon~J (Hg.), \emph{The US-Sino Currency
+  Dispute: New Insights from Economics, Politics and Law}, Kap.~16, VoxEU.
 
-\bibitem[Bernanke(2006)]{Bernanke06}
-Ben~S. Bernanke.
-\newblock The chinese economy: Progress and challenges.
-\newblock Speech, United States Federal Reserve System, 2006.
-\newblock URL
-  \url{http://www.federalreserve.gov/newsevents/speech/Bernanke20061215a.htm}.
+\bibitem[{Wang(2011)}]{Xinhua2011}
+Wang, Yamei, 2011, \emph{China to expand import for balanced growth in trade:
+  Premier}, in: Xinhua English News,
+  \urlprefix\url{http://news.xinhuanet.com/english2010/china/2011-10/14/c_131192073.htm}.
 
-\bibitem[Reuters(2006)]{reuters06}
-Reuters.
-\newblock Bernanke backs off calling weak yuan a 'subsidy', 2006.
-\newblock URL
-  \url{http://www.cnbc.com/id/16215247/Bernanke_Backs_Off_Calling_Weak_Yuan_a_Subsidy}.
+\bibitem[{Wyplosz(2010)}]{Wyplosz2010}
+Wyplosz, Charles, 2010, \emph{Is an undervalued renminbi the source of global
+  imbalances?}, in: Evenett, Simon~J (Hg.), \emph{The US-Sino Currency Dispute:
+  New Insights from Economics, Politics and Law}, Kap.~5, VoxEU.
 
-\bibitem[Bernanke(2005)]{Bernanke05}
-Ben~S. Bernanke.
-\newblock The global saving glut and the u.s. current account deficit.
-\newblock Speech, United States Federal Reserve System, 2005.
-\newblock URL
-  \url{http://www.federalreserve.gov/boarddocs/speeches/2005/200503102/}.
+\bibitem[{Xiaoyi(2011)}]{Wang2011}
+Xiaoyi, Wang, 2011, \emph{China's exchange rate and monetary policies}, BIS
+  Papers~57, Bank of International Settlements,
+  www.bis.org/publ/bppdf/bispap57.pdf.
+
+\bibitem[{Yang, Zhang et~al.(2011)Yang, Zhang und Zhou}]{Yang2011}
+Yang, Denis~Tao, Zhang, Junsen und Zhou, Shaojie, 2011, \emph{Why are saving
+  rates so high in China?}, {Techn.\ Ber.} 16771, National Bureau of Economic
+  Research, \urlprefix\url{http://www.nber.org/papers/w16771}.
 
 \end{thebibliography}

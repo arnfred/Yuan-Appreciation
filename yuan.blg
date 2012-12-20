@@ -9,12 +9,17 @@ White space in argument---line 42 of file yuan.aux
  : \citation{pp.
  :               1}
 I'm skipping whatever remains of this command
+Case mismatch error between cite keys Naughton2008 and naughton2008
+---line 67 of file yuan.aux
+ : \citation{Naughton2008
+ :                       }
+I'm skipping whatever remains of this command
 Case mismatch error between cite keys cline2009 and Cline2009
----line 80 of file yuan.aux
+---line 81 of file yuan.aux
  : \citation{cline2009
  :                    }
 I'm skipping whatever remains of this command
-The style file: unsrtnat.bst
+The style file: bibliostyle1205.bst
 Database file #1: yuan.bib
 Warning--entry type for "BFS2012" isn't style-file defined
 --line 34 of file yuan.bib
@@ -36,49 +41,50 @@ Warning--I didn't find a database entry for "Bernanke2005"
 Warning--I didn't find a database entry for "Levy2010"
 Warning--I didn't find a database entry for "Naugthon2011"
 Warning--I didn't find a database entry for "Naughton2010"
-Warning--empty year in FRED2012
-Warning--empty year in Humpage2010
-Warning--empty year in BFS2012
-Warning--empty year in Krugman2009
-You've used 30 entries,
-            2481 wiz_defined-function locations,
-            730 strings with 8670 characters,
-and the built_in function-call counts, 8492 in all, are:
-= -- 738
-> -- 297
-< -- 38
-+ -- 144
-- -- 83
-* -- 473
-:= -- 1387
-add.period$ -- 100
-call.type$ -- 30
-change.case$ -- 60
-chr.to.int$ -- 29
-cite$ -- 35
-duplicate$ -- 502
-empty$ -- 874
-format.name$ -- 120
-if$ -- 1820
+Warning--to sort, need editor or key in IEM2003
+Warning--empty year in Humpage2010; set to ????
+Warning--empty year in Krugman2009; set to ????
+Warning--empty year in FRED2012; set to ????
+Warning--empty year in BFS2012; set to ????
+You've used 31 entries,
+            2752 wiz_defined-function locations,
+            762 strings with 8793 characters,
+and the built_in function-call counts, 13063 in all, are:
+= -- 886
+> -- 504
+< -- 14
++ -- 212
+- -- 166
+* -- 901
+:= -- 2265
+add.period$ -- 31
+call.type$ -- 31
+change.case$ -- 178
+chr.to.int$ -- 30
+cite$ -- 38
+duplicate$ -- 1056
+empty$ -- 1079
+format.name$ -- 187
+if$ -- 2391
 int.to.chr$ -- 2
-int.to.str$ -- 31
-missing$ -- 10
-newline$ -- 162
-num.names$ -- 97
-pop$ -- 289
+int.to.str$ -- 1
+missing$ -- 195
+newline$ -- 99
+num.names$ -- 132
+pop$ -- 464
 preamble$ -- 1
-purify$ -- 30
+purify$ -- 191
 quote$ -- 0
-skip$ -- 315
+skip$ -- 388
 stack$ -- 0
-substring$ -- 77
-swap$ -- 68
-text.length$ -- 12
+substring$ -- 403
+swap$ -- 451
+text.length$ -- 14
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 206
-warning$ -- 4
-while$ -- 65
+type$ -- 276
+warning$ -- 5
+while$ -- 129
 width$ -- 0
-write$ -- 393
-(There were 3 error messages)
+write$ -- 343
+(There were 4 error messages)
