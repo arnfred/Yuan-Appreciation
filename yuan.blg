@@ -1,0 +1,84 @@
+This is BibTeX, Version 0.99d (TeX Live 2011)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: yuan.aux
+White space in argument---line 38 of file yuan.aux
+ : \citation{p.
+ :              65}
+I'm skipping whatever remains of this command
+White space in argument---line 42 of file yuan.aux
+ : \citation{pp.
+ :               1}
+I'm skipping whatever remains of this command
+Case mismatch error between cite keys cline2009 and Cline2009
+---line 80 of file yuan.aux
+ : \citation{cline2009
+ :                    }
+I'm skipping whatever remains of this command
+The style file: unsrtnat.bst
+Database file #1: yuan.bib
+Warning--entry type for "BFS2012" isn't style-file defined
+--line 34 of file yuan.bib
+Warning--entry type for "FRED2012" isn't style-file defined
+--line 54 of file yuan.bib
+Warning--entry type for "Humpage2010" isn't style-file defined
+--line 117 of file yuan.bib
+Warning--entry type for "Krugman2009" isn't style-file defined
+--line 141 of file yuan.bib
+Warning--entry type for "Naughton2008" isn't style-file defined
+--line 171 of file yuan.bib
+Warning--string name "april" is undefined
+--line 419 of file yuan.bib
+Warning--string name "october" is undefined
+--line 428 of file yuan.bib
+Warning--I didn't find a database entry for "Goldstein2008"
+Warning--I didn't find a database entry for "Huang2010"
+Warning--I didn't find a database entry for "Bernanke2005"
+Warning--I didn't find a database entry for "Levy2010"
+Warning--I didn't find a database entry for "Naugthon2011"
+Warning--I didn't find a database entry for "Naughton2010"
+Warning--empty year in FRED2012
+Warning--empty year in Humpage2010
+Warning--empty year in BFS2012
+Warning--empty year in Krugman2009
+You've used 30 entries,
+            2481 wiz_defined-function locations,
+            730 strings with 8670 characters,
+and the built_in function-call counts, 8492 in all, are:
+= -- 738
+> -- 297
+< -- 38
++ -- 144
+- -- 83
+* -- 473
+:= -- 1387
+add.period$ -- 100
+call.type$ -- 30
+change.case$ -- 60
+chr.to.int$ -- 29
+cite$ -- 35
+duplicate$ -- 502
+empty$ -- 874
+format.name$ -- 120
+if$ -- 1820
+int.to.chr$ -- 2
+int.to.str$ -- 31
+missing$ -- 10
+newline$ -- 162
+num.names$ -- 97
+pop$ -- 289
+preamble$ -- 1
+purify$ -- 30
+quote$ -- 0
+skip$ -- 315
+stack$ -- 0
+substring$ -- 77
+swap$ -- 68
+text.length$ -- 12
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 206
+warning$ -- 4
+while$ -- 65
+width$ -- 0
+write$ -- 393
+(There were 3 error messages)
