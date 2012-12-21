@@ -1,19 +1,18 @@
-This is BibTeX, Version 0.99d (TeX Live 2011)
-Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
 The top-level auxiliary file: yuan.aux
 The style file: bibliostyle1205.bst
 Database file #1: yuan.bib
 You've used 41 entries,
             2752 wiz_defined-function locations,
-            801 strings with 10135 characters,
-and the built_in function-call counts, 17507 in all, are:
-= -- 1169
+            803 strings with 10262 characters,
+and the built_in function-call counts, 17519 in all, are:
+= -- 1171
 > -- 701
 < -- 17
 + -- 289
 - -- 231
-* -- 1203
-:= -- 3062
+* -- 1209
+:= -- 3064
 add.period$ -- 41
 call.type$ -- 41
 change.case$ -- 243
@@ -22,13 +21,13 @@ cite$ -- 41
 duplicate$ -- 1412
 empty$ -- 1452
 format.name$ -- 258
-if$ -- 3203
+if$ -- 3205
 int.to.chr$ -- 2
 int.to.str$ -- 1
 missing$ -- 263
 newline$ -- 129
 num.names$ -- 183
-pop$ -- 600
+pop$ -- 598
 preamble$ -- 1
 purify$ -- 261
 quote$ -- 0
@@ -43,4 +42,4 @@ type$ -- 363
 warning$ -- 0
 while$ -- 176
 width$ -- 0
-write$ -- 454
+write$ -- 456
