@@ -1,40 +1,42 @@
 This is BibTeX, Version 0.99d (TeX Live 2011)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: yuan.aux
-White space in argument---line 38 of file yuan.aux
+White space in argument---line 39 of file yuan.aux
  : \citation{p.
  :              65}
 I'm skipping whatever remains of this command
-White space in argument---line 42 of file yuan.aux
+White space in argument---line 43 of file yuan.aux
  : \citation{pp.
  :               1}
 I'm skipping whatever remains of this command
 Case mismatch error between cite keys Naughton2008 and naughton2008
----line 67 of file yuan.aux
+---line 68 of file yuan.aux
  : \citation{Naughton2008
  :                       }
 I'm skipping whatever remains of this command
 Case mismatch error between cite keys cline2009 and Cline2009
----line 81 of file yuan.aux
+---line 82 of file yuan.aux
  : \citation{cline2009
  :                    }
 I'm skipping whatever remains of this command
 The style file: bibliostyle1205.bst
 Database file #1: yuan.bib
+Warning--entry type for "Romney2012b" isn't style-file defined
+--line 12 of file yuan.bib
 Warning--entry type for "BFS2012" isn't style-file defined
---line 34 of file yuan.bib
+--line 41 of file yuan.bib
 Warning--entry type for "FRED2012" isn't style-file defined
---line 54 of file yuan.bib
+--line 61 of file yuan.bib
 Warning--entry type for "Humpage2010" isn't style-file defined
---line 117 of file yuan.bib
+--line 124 of file yuan.bib
 Warning--entry type for "Krugman2009" isn't style-file defined
---line 141 of file yuan.bib
+--line 148 of file yuan.bib
 Warning--entry type for "Naughton2008" isn't style-file defined
---line 171 of file yuan.bib
+--line 178 of file yuan.bib
 Warning--string name "april" is undefined
---line 419 of file yuan.bib
+--line 426 of file yuan.bib
 Warning--string name "october" is undefined
---line 428 of file yuan.bib
+--line 435 of file yuan.bib
 Warning--I didn't find a database entry for "Goldstein2008"
 Warning--I didn't find a database entry for "Huang2010"
 Warning--I didn't find a database entry for "Bernanke2005"
@@ -42,49 +44,50 @@ Warning--I didn't find a database entry for "Levy2010"
 Warning--I didn't find a database entry for "Naugthon2011"
 Warning--I didn't find a database entry for "Naughton2010"
 Warning--to sort, need editor or key in IEM2003
+Warning--empty year in Romney2012b; set to ????
 Warning--empty year in Humpage2010; set to ????
 Warning--empty year in Krugman2009; set to ????
 Warning--empty year in FRED2012; set to ????
 Warning--empty year in BFS2012; set to ????
-You've used 31 entries,
+You've used 32 entries,
             2752 wiz_defined-function locations,
-            762 strings with 8794 characters,
-and the built_in function-call counts, 13063 in all, are:
-= -- 886
-> -- 504
+            767 strings with 8971 characters,
+and the built_in function-call counts, 13399 in all, are:
+= -- 911
+> -- 516
 < -- 14
-+ -- 212
-- -- 166
-* -- 901
-:= -- 2265
-add.period$ -- 31
-call.type$ -- 31
-change.case$ -- 178
-chr.to.int$ -- 30
-cite$ -- 38
-duplicate$ -- 1056
-empty$ -- 1079
-format.name$ -- 187
-if$ -- 2391
++ -- 217
+- -- 170
+* -- 924
+:= -- 2330
+add.period$ -- 32
+call.type$ -- 32
+change.case$ -- 183
+chr.to.int$ -- 31
+cite$ -- 40
+duplicate$ -- 1080
+empty$ -- 1104
+format.name$ -- 191
+if$ -- 2449
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 195
-newline$ -- 99
-num.names$ -- 132
-pop$ -- 464
+missing$ -- 199
+newline$ -- 102
+num.names$ -- 136
+pop$ -- 478
 preamble$ -- 1
-purify$ -- 191
+purify$ -- 196
 quote$ -- 0
-skip$ -- 388
+skip$ -- 397
 stack$ -- 0
-substring$ -- 403
-swap$ -- 451
+substring$ -- 414
+swap$ -- 458
 text.length$ -- 14
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 276
-warning$ -- 5
-while$ -- 129
+type$ -- 285
+warning$ -- 6
+while$ -- 133
 width$ -- 0
-write$ -- 343
+write$ -- 353
 (There were 4 error messages)

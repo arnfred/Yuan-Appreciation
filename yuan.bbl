@@ -1,4 +1,4 @@
-\begin{thebibliography}{31}
+\begin{thebibliography}{32}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{URL }
@@ -55,6 +55,11 @@ Daily, China, 2011, \emph{China refutes claims RMB undervalued},
 Frankel, Jeffrey, 2010, \emph{The renminbi since 2005}, in: Evenett, Simon~J
   (Hg.), \emph{The US-Sino Currency Dispute: New Insights from Economics,
   Politics and Law}, Kap.~7, VoxEU.
+
+\bibitem[{Guardian()}]{Romney2012b}
+Guardian, The, ????, \emph{US presidential debate: Obama and Romney discuss
+  China - video},
+  \urlprefix\url{http://www.guardian.co.uk/world/video/2012/oct/23/debate-obama-romney-china-video}.
 
 \bibitem[{Hughes(2006)}]{hughes2006}
 Hughes, C.R., 2006, \emph{Chinese nationalism in the global era}, in:
