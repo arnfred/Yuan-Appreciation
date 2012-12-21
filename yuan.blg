@@ -1,75 +1,46 @@
-This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
+This is BibTeX, Version 0.99d (TeX Live 2011)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: yuan.aux
-White space in argument---line 40 of file yuan.aux
- : \citation{pp.
- :               1}
-I'm skipping whatever remains of this command
-Case mismatch error between cite keys cline2009 and Cline2009
----line 82 of file yuan.aux
- : \citation{cline2009
- :                    }
-I'm skipping whatever remains of this command
 The style file: bibliostyle1205.bst
 Database file #1: yuan.bib
-I was expecting a `,' or a `}'---line 29 of file yuan.bib
- :  
- :  Url = {http://www.treasury.gov/resource-center/international/exchange-rate-policies/Documents/authorizing-statute.pdf},
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
-Warning--entry type for "Romney2012b" isn't style-file defined
---line 52 of file yuan.bib
-Warning--entry type for "BFS2012" isn't style-file defined
---line 83 of file yuan.bib
-Warning--entry type for "FRED2012" isn't style-file defined
---line 104 of file yuan.bib
-Warning--entry type for "Humpage2010" isn't style-file defined
---line 168 of file yuan.bib
-Warning--entry type for "Krugman2009" isn't style-file defined
---line 193 of file yuan.bib
-Warning--entry type for "Naughton2008" isn't style-file defined
---line 224 of file yuan.bib
-Warning--entry type for "Naughton2011" isn't style-file defined
---line 233 of file yuan.bib
-Warning--to sort, need editor or key in IEM2003
-You've used 39 entries,
+You've used 41 entries,
             2752 wiz_defined-function locations,
-            789 strings with 9622 characters,
-and the built_in function-call counts, 16328 in all, are:
-= -- 1097
-> -- 624
+            801 strings with 10135 characters,
+and the built_in function-call counts, 17507 in all, are:
+= -- 1169
+> -- 701
 < -- 17
-+ -- 259
-- -- 205
-* -- 1110
-:= -- 2843
-add.period$ -- 39
-call.type$ -- 39
-change.case$ -- 225
-chr.to.int$ -- 38
-cite$ -- 42
-duplicate$ -- 1326
-empty$ -- 1379
-format.name$ -- 229
-if$ -- 2998
++ -- 289
+- -- 231
+* -- 1203
+:= -- 3062
+add.period$ -- 41
+call.type$ -- 41
+change.case$ -- 243
+chr.to.int$ -- 40
+cite$ -- 41
+duplicate$ -- 1412
+empty$ -- 1452
+format.name$ -- 258
+if$ -- 3203
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 242
-newline$ -- 123
-num.names$ -- 170
-pop$ -- 560
+missing$ -- 263
+newline$ -- 129
+num.names$ -- 183
+pop$ -- 600
 preamble$ -- 1
-purify$ -- 244
+purify$ -- 261
 quote$ -- 0
-skip$ -- 496
+skip$ -- 523
 stack$ -- 0
-substring$ -- 503
-swap$ -- 561
+substring$ -- 527
+swap$ -- 604
 text.length$ -- 17
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 345
-warning$ -- 1
-while$ -- 164
+type$ -- 363
+warning$ -- 0
+while$ -- 176
 width$ -- 0
-write$ -- 428
-(There were 3 error messages)
+write$ -- 454

@@ -1,25 +1,17 @@
-\begin{thebibliography}{39}
+\begin{thebibliography}{41}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{URL }
 
-\bibitem[{IEM(2003)}]{IEM2003}
-2003, \emph{Is the Chinese currency, the renminbi, dangerously undervalued and
-  a threat to the global economy?}, The international Economy Magazine,
-  \urlprefix\url{http://www.international-economy.com/TIE_Sp03_ChinaCurrencySy%
-mp.pdf.}
-
 \bibitem[{Bernanke(2005)}]{Bernanke2005}
 Bernanke, Ben~S., 2005, \emph{The Global Saving Glut and the U.S. Current
   Account Deficit}, Speech, United States Federal Reserve System,
-  \urlprefix\url{http://www.federalreserve.gov/boarddocs/speeches/2005/2005031%
-02/}.
+  \urlprefix\url{http://www.federalreserve.gov/boarddocs/speeches/2005/200503102/}.
 
 \bibitem[{Bernanke(2006)}]{Bernanke06}
 Bernanke, Ben~S., 2006, \emph{The Chinese Economy: Progress and Challenges},
   Speech, United States Federal Reserve System,
-  \urlprefix\url{http://www.federalreserve.gov/newsevents/speech/Bernanke20061%
-215a.htm}.
+  \urlprefix\url{http://www.federalreserve.gov/newsevents/speech/Bernanke20061215a.htm}.
 
 \bibitem[{Breslin(2010)}]{Breslin2010}
 Breslin, Shaun, 2010, \emph{Great expectations: (Competing) domestic drivers of
@@ -54,6 +46,10 @@ Cline, William~R. und Williamson, John, 2012, \emph{Estimates of Fundamental
 Daily, China, 2011, \emph{China refutes claims RMB undervalued},
   \urlprefix\url{http://english.people.com.cn/90001/90778/90859/7451845.html}.
 
+\bibitem[{Economist(2012)}]{Economist2012}
+Economist, The, 2012, \emph{The Big Mac Index},
+  \urlprefix\url{http://www.economist.com/news/special-report/21568068-burger-company-may-be-barometer-industry-big-mac-index}.
+
 \bibitem[{Frankel(2010)}]{Frankel2010}
 Frankel, Jeffrey, 2010, \emph{The renminbi since 2005}, in: Evenett, Simon~J
   (Hg.), \emph{The US-Sino Currency Dispute: New Insights from Economics,
@@ -67,8 +63,7 @@ Goldstein, M. und Lardy, N.R., 2008, \emph{Debating China's Exchange Rate
 \bibitem[{Guardian(2012)}]{Romney2012b}
 Guardian, The, 2012, \emph{US presidential debate: Obama and Romney discuss
   China - video},
-  \urlprefix\url{http://www.guardian.co.uk/world/video/2012/oct/23/debate-obam%
-a-romney-china-video}.
+  \urlprefix\url{http://www.guardian.co.uk/world/video/2012/oct/23/debate-obama-romney-china-video}.
 
 \bibitem[{Huang(2010)}]{Huang2010}
 Huang, Yiping, 2010, \emph{What caused China's current-account surplus?}, in:
@@ -82,6 +77,12 @@ Hughes, C.R., 2006, \emph{Chinese nationalism in the global era}, in:
 \bibitem[{Humpage und Mowry(2010)}]{Humpage2010}
 Humpage, Owen und Mowry, Beth, 2010, \emph{Out of Whack---the Renminbi}.
 
+\bibitem[{international Economy~Magazine(2003)}]{IEM2003}
+international Economy~Magazine, The (Hg.), 2003, \emph{Is the Chinese currency,
+  the renminbi, dangerously undervalued and a threat to the global economy?},
+  The International Economy Publications, Inc.,
+  \urlprefix\url{http://www.international-economy.com/TIE_Sp03_ChinaCurrencySymp.pdf}.
+
 \bibitem[{Krugman(2009)}]{Krugman2009}
 Krugman, Paul, 2009, \emph{Chinese New Year}.
 
@@ -93,11 +94,16 @@ Kuroda, H., 2004, \emph{The ``Nixon Shock'' and the ```Plaza Agreement'':
   Lessons from Two Seemingly Failed Cases of Japan's Exchange Rate Policy}, in:
   china \& World economy, 12(1), S. 3--10.
 
+\bibitem[{Lee, Milesi-Ferretti et~al.(2008)Lee, Milesi-Ferretti, Ostry, Prati
+  und Ricci}]{Lee2008}
+Lee, Jaewoo, Milesi-Ferretti, Gian~Maria, Ostry, Jonathan, Prati, Alessandro
+  und Ricci, Luca~Antonio, 2008, \emph{Exchange Rate Assessments: CGER
+  Methodologies}, {Techn.\ Ber.}, International Monetary Fund (IMF).
+
 \bibitem[{Lee(2004)}]{AFL2004}
 Lee, Thea~M., 2004, \emph{AFL-CIO on U.S.-China Ties: Reassessing the Economic
   Relationship},
-  \urlprefix\url{http://www.dossiertibet.it/news/afl-cio-us-china-ties-reasses%
-sing-economic-relationship}.
+  \urlprefix\url{http://www.dossiertibet.it/news/afl-cio-us-china-ties-reassessing-economic-relationship}.
 
 \bibitem[{Levy(2011{\natexlab{a}})}]{Levy2011}
 Levy, Philip~., 2011{\natexlab{a}}, \emph{The United States and the PRC:
@@ -118,11 +124,11 @@ Levy, Philip, 2010, \emph{US policy approaches to Chinese currency}, in:
 
 \bibitem[{Naughton(2008)}]{naughton2008}
 Naughton, Barry, 2008, \emph{A New Team Faces Unprecedented Economic
-  Challenges}.
+  Challenges}, in: China Leadership Monitor, 26.
 
 \bibitem[{Naughton(2011)}]{Naughton2011}
 Naughton, Barry, 2011, \emph{Inflation, Welfare, and the Political Business
-  Cycle}.
+  Cycle}, in: China Leadership Monitor.
 
 \bibitem[{Obama(2008)}]{Obama2008}
 Obama, Barack, 2008, \emph{Sen. Barack Obama at AAM Presidential Candidates
@@ -136,8 +142,7 @@ of~St. Louis Economic~Research, Federal Reserve~Bank, 2012, \emph{Exports of
 \bibitem[{Office(2012)}]{BFS2012}
 Office, Swiss Federal~Statistics, 2012, \emph{National economy - Savings rate
   of households},
-  \urlprefix\url{http://www.bfs.admin.ch/bfs/portal/en/index/themen/00/09/blan%
-k/ind42.indicator.420004.420001.html}.
+  \urlprefix\url{http://www.bfs.admin.ch/bfs/portal/en/index/themen/00/09/blank/ind42.indicator.420004.420001.html}.
 
 \bibitem[{Reisen(2010)}]{Reisen2010}
 Reisen, Helmut, 2010, \emph{Is China's currency overvalued?}, in: Evenett,
@@ -146,13 +151,11 @@ Reisen, Helmut, 2010, \emph{Is China's currency overvalued?}, in: Evenett,
 
 \bibitem[{Reuters(2006)}]{reuters06}
 Reuters, 2006, \emph{Bernanke Backs Off Calling Weak Yuan a 'Subsidy'},
-  \urlprefix\url{http://www.cnbc.com/id/16215247/Bernanke_Backs_Off_Calling_We%
-ak_Yuan_a_Subsidy}.
+  \urlprefix\url{http://www.cnbc.com/id/16215247/Bernanke_Backs_Off_Calling_Weak_Yuan_a_Subsidy}.
 
 \bibitem[{Reuters(2009)}]{reuters09}
 Reuters, 2009, \emph{IMF head eyes global currency change, presses on yuan},
-  \urlprefix\url{http://www.reuters.com/article/2009/11/17/us-imf-idUSTRE5AG0I%
-720091117}.
+  \urlprefix\url{http://www.reuters.com/article/2009/11/17/us-imf-idUSTRE5AG0I720091117}.
 
 \bibitem[{Romney(2012)}]{Romney2012}
 Romney, Mitt, 2012, \emph{China is a currency manipulator; impose tariffs \&
@@ -172,7 +175,8 @@ Subramanian, Arvind, 2010, \emph{New PPP-based estimates of renminbi
 \bibitem[{Treasury(1988)}]{TradeAct1988}
 Treasury, US, 1988, \emph{Omnibus Trade and Competitiveness Act of 1988 (H.R.
   3) Sec. 3004. International Negotiations on Exchange Rate and Economic
-  Policies}.
+  Policies},
+  \urlprefix\url{http://www.treasury.gov/resource-center/international/exchange-rate-policies/Documents/authorizing-statute.pdf}.
 
 \bibitem[{Waibel(2010)}]{Waibel2010}
 Waibel, Michael, 2010, \emph{Retaliating against exchange-rate manipulation
@@ -182,8 +186,7 @@ Waibel, Michael, 2010, \emph{Retaliating against exchange-rate manipulation
 \bibitem[{Wang(2011)}]{Xinhua2011}
 Wang, Yamei, 2011, \emph{China to expand import for balanced growth in trade:
   Premier}, in: Xinhua English News,
-  \urlprefix\url{http://news.xinhuanet.com/english2010/china/2011-10/14/c_1311%
-92073.htm}.
+  \urlprefix\url{http://news.xinhuanet.com/english2010/china/2011-10/14/c_131192073.htm}.
 
 \bibitem[{Wyplosz(2010)}]{Wyplosz2010}
 Wyplosz, Charles, 2010, \emph{Is an undervalued renminbi the source of global
