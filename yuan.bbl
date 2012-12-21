@@ -3,8 +3,8 @@
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{URL }
 
-\bibitem[{Tra()}]{TradeAct1988}
-????, \emph{Omnibus Trade and Competitiveness Act of 1988 (H.R. 3) Sec. 3004.
+\bibitem[{Tra(1988)}]{TradeAct1988}
+1988, \emph{Omnibus Trade and Competitiveness Act of 1988 (H.R. 3) Sec. 3004.
   International Negotiations on Exchange Rate and Economic Policies},
   \urlprefix\url{http://www.treasury.gov/resource-center/international/exchang%
 e-rate-policies/Documents/authorizing-statute.pdf}.
@@ -70,8 +70,8 @@ Goldstein, M. und Lardy, N.R., 2008, \emph{Debating China's Exchange Rate
   Policy}, Peterson Institute for International Economics,
   \urlprefix\url{http://books.google.ch/books?id=Ka7rmHFt9eIC}.
 
-\bibitem[{Guardian()}]{Romney2012b}
-Guardian, The, ????, \emph{US presidential debate: Obama and Romney discuss
+\bibitem[{Guardian(2012)}]{Romney2012b}
+Guardian, The, 2012, \emph{US presidential debate: Obama and Romney discuss
   China - video},
   \urlprefix\url{http://www.guardian.co.uk/world/video/2012/oct/23/debate-obam%
 a-romney-china-video}.
@@ -85,11 +85,11 @@ Huang, Yiping, 2010, \emph{What caused China's current-account surplus?}, in:
 Hughes, C.R., 2006, \emph{Chinese nationalism in the global era}, in:
   openDemocracy. net.
 
-\bibitem[{Humpage und Mowry()}]{Humpage2010}
-Humpage, Owen und Mowry, Beth, ????, \emph{Out of Whack---the Renminbi}.
+\bibitem[{Humpage und Mowry(2010)}]{Humpage2010}
+Humpage, Owen und Mowry, Beth, 2010, \emph{Out of Whack---the Renminbi}.
 
-\bibitem[{Krugman()}]{Krugman2009}
-Krugman, Paul, ????, \emph{Chinese New Year}.
+\bibitem[{Krugman(2009)}]{Krugman2009}
+Krugman, Paul, 2009, \emph{Chinese New Year}.
 
 \bibitem[{Krugman und Wells(2008)}]{Krugman2008}
 Krugman, Paul und Wells, Robin, 2008, \emph{Macroeconomics}, Worth Publishers.
@@ -99,8 +99,8 @@ Kuroda, H., 2004, \emph{The ``Nixon Shock'' and the ```Plaza Agreement'':
   Lessons from Two Seemingly Failed Cases of Japan's Exchange Rate Policy}, in:
   china \& World economy, 12(1), S. 3--10.
 
-\bibitem[{Lee()}]{AFL2004}
-Lee, Thea~M., ????, \emph{AFL-CIO on U.S.-China Ties: Reassessing the Economic
+\bibitem[{Lee(2004)}]{AFL2004}
+Lee, Thea~M., 2004, \emph{AFL-CIO on U.S.-China Ties: Reassessing the Economic
   Relationship},
   \urlprefix\url{http://www.dossiertibet.it/news/afl-cio-us-china-ties-reasses%
 sing-economic-relationship}.
@@ -134,13 +134,13 @@ Naughton, Barry, 2011, \emph{Inflation, Welfare, and the Political Business
 Obama, Barack, 2008, \emph{Sen. Barack Obama at AAM Presidential Candidates
   Town}, \urlprefix\url{http://www.youtube.com/watch?v=4Ai_FBe6R9w}.
 
-\bibitem[{of~St. Louis Economic~Research()}]{FRED2012}
-of~St. Louis Economic~Research, Federal Reserve~Bank, ????, \emph{Exports of
+\bibitem[{of~St. Louis Economic~Research(2012)}]{FRED2012}
+of~St. Louis Economic~Research, Federal Reserve~Bank, 2012, \emph{Exports of
   Goods and Services in China},
   \urlprefix\url{http://research.stlouisfed.org/fredgraph.png?g=dWg}.
 
-\bibitem[{Office()}]{BFS2012}
-Office, Swiss Federal~Statistics, ????, \emph{National economy - Savings rate
+\bibitem[{Office(2012)}]{BFS2012}
+Office, Swiss Federal~Statistics, 2012, \emph{National economy - Savings rate
   of households},
   \urlprefix\url{http://www.bfs.admin.ch/bfs/portal/en/index/themen/00/09/blan%
 k/ind42.indicator.420004.420001.html}.
