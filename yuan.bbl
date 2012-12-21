@@ -3,12 +3,6 @@
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{URL }
 
-\bibitem[{Tra(1988)}]{TradeAct1988}
-1988, \emph{Omnibus Trade and Competitiveness Act of 1988 (H.R. 3) Sec. 3004.
-  International Negotiations on Exchange Rate and Economic Policies},
-  \urlprefix\url{http://www.treasury.gov/resource-center/international/exchang%
-e-rate-policies/Documents/authorizing-statute.pdf}.
-
 \bibitem[{IEM(2003)}]{IEM2003}
 2003, \emph{Is the Chinese currency, the renminbi, dangerously undervalued and
   a threat to the global economy?}, The international Economy Magazine,
@@ -174,6 +168,11 @@ Subramanian, Arvind, 2010, \emph{New PPP-based estimates of renminbi
   undervaluation and policy 69 implications}, in: Evenett, Simon~J (Hg.),
   \emph{The US-Sino Currency Dispute: New Insights from Economics, Politics and
   Law}, Kap.~9, VoxEU.
+
+\bibitem[{Treasury(1988)}]{TradeAct1988}
+Treasury, US, 1988, \emph{Omnibus Trade and Competitiveness Act of 1988 (H.R.
+  3) Sec. 3004. International Negotiations on Exchange Rate and Economic
+  Policies}.
 
 \bibitem[{Waibel(2010)}]{Waibel2010}
 Waibel, Michael, 2010, \emph{Retaliating against exchange-rate manipulation

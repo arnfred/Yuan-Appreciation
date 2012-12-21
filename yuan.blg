@@ -1,79 +1,75 @@
 This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
 The top-level auxiliary file: yuan.aux
-White space in argument---line 37 of file yuan.aux
- : \citation{p.
- :              65}
-I'm skipping whatever remains of this command
-White space in argument---line 41 of file yuan.aux
+White space in argument---line 40 of file yuan.aux
  : \citation{pp.
  :               1}
 I'm skipping whatever remains of this command
 Case mismatch error between cite keys cline2009 and Cline2009
----line 83 of file yuan.aux
+---line 82 of file yuan.aux
  : \citation{cline2009
  :                    }
 I'm skipping whatever remains of this command
 The style file: bibliostyle1205.bst
 Database file #1: yuan.bib
-Warning--entry type for "TradeAct1988" isn't style-file defined
---line 23 of file yuan.bib
-Warning--entry type for "AFL2004" isn't style-file defined
---line 31 of file yuan.bib
+I was expecting a `,' or a `}'---line 29 of file yuan.bib
+ :  
+ :  Url = {http://www.treasury.gov/resource-center/international/exchange-rate-policies/Documents/authorizing-statute.pdf},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
 Warning--entry type for "Romney2012b" isn't style-file defined
---line 51 of file yuan.bib
+--line 52 of file yuan.bib
 Warning--entry type for "BFS2012" isn't style-file defined
---line 82 of file yuan.bib
+--line 83 of file yuan.bib
 Warning--entry type for "FRED2012" isn't style-file defined
---line 103 of file yuan.bib
+--line 104 of file yuan.bib
 Warning--entry type for "Humpage2010" isn't style-file defined
---line 167 of file yuan.bib
+--line 168 of file yuan.bib
 Warning--entry type for "Krugman2009" isn't style-file defined
---line 192 of file yuan.bib
+--line 193 of file yuan.bib
 Warning--entry type for "Naughton2008" isn't style-file defined
---line 223 of file yuan.bib
+--line 224 of file yuan.bib
 Warning--entry type for "Naughton2011" isn't style-file defined
---line 232 of file yuan.bib
+--line 233 of file yuan.bib
 Warning--to sort, need editor or key in IEM2003
-Warning--to sort, need author or key in TradeAct1988
 You've used 39 entries,
             2752 wiz_defined-function locations,
-            789 strings with 9721 characters,
-and the built_in function-call counts, 16269 in all, are:
+            789 strings with 9622 characters,
+and the built_in function-call counts, 16328 in all, are:
 = -- 1097
-> -- 612
+> -- 624
 < -- 17
-+ -- 255
-- -- 201
-* -- 1112
-:= -- 2812
++ -- 259
+- -- 205
+* -- 1110
+:= -- 2843
 add.period$ -- 39
 call.type$ -- 39
-change.case$ -- 224
+change.case$ -- 225
 chr.to.int$ -- 38
-cite$ -- 45
-duplicate$ -- 1325
-empty$ -- 1382
-format.name$ -- 225
-if$ -- 2996
+cite$ -- 42
+duplicate$ -- 1326
+empty$ -- 1379
+format.name$ -- 229
+if$ -- 2998
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 241
+missing$ -- 242
 newline$ -- 123
-num.names$ -- 166
+num.names$ -- 170
 pop$ -- 560
 preamble$ -- 1
-purify$ -- 243
+purify$ -- 244
 quote$ -- 0
-skip$ -- 497
+skip$ -- 496
 stack$ -- 0
-substring$ -- 505
-swap$ -- 559
+substring$ -- 503
+swap$ -- 561
 text.length$ -- 17
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 345
-warning$ -- 2
-while$ -- 160
+warning$ -- 1
+while$ -- 164
 width$ -- 0
 write$ -- 428
 (There were 3 error messages)
